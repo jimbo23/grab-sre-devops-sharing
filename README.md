@@ -8,8 +8,9 @@
 
 <hr/>
 
-` For Grab, customers depend heavily on us -- a good problem`
-` "Hope is not a strategy", "I hope that this won't go wrong"`
+`For Grab, customers depend heavily on us` -- a good problem`
+
+"I hope that this won't go wrong" -- `Hope is not a strategy`
 
 <h6>When it comes to DevOps, one big issue is development speed vs stability</h6>
 
