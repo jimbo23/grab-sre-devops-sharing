@@ -37,11 +37,11 @@
 
 - All users have their default map pointing to Africa (coordinate at 0,0), somehow.
 - Debugging from the backend, realize BE couldn't parse the coordinate correctly.
-- Actual reason: Grab did localization at vietnam, (, -> . for decimal), screwed up the coordinate system
+- Actual reason: Grab did localization at vietnam, (, -> . for decimal), screwed up the parser for coordinate system
 
 ###### 2015 Singapore Grab break down
 
-- In Singapore, there was 1 day in 2015, blue line MRT + purple line MRT breakdown, grab breakdown as a result🫠
+- In Singapore, there was 1 day in 2015, blue line MRT + purple line MRT breakdown, grab breakdown as a result and you know why🫠
 
 #### Critical Path Analysis:
 
